@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a pergunta é necessário explicar o que quer dizer essa taxa. Ela é uma sigla que significa Sistema Especial de Liquidação e de Custódia, corresponde ao índice básico de juros da economia brasileira e é usada como referência para todos os juros cobrados no país.
-
 seo:
   title: "Entenda como a taxa Selic afeta os investimentos e planeje-se"
   description: ""

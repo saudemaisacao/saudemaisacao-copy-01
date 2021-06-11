@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Embora a finalidade de um consultório médico seja melhorar o padrão de vida das pessoas por meio de um atendimento de qualidade, ele ainda é um negócio e precisa gerar retornos financeiros. Por essa razão, é necessário que os seus donos saibam como calcular o Market Share.
-
 seo:
   title: "Entenda o que é e como calcular o Market Share do seu negócio"
   description: ""

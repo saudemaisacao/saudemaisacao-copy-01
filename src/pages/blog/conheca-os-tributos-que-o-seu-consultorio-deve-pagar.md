@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O planejamento tributário é tão essencial para o sucesso do consultório quanto a gestão de custos, o treinamento de pessoal, os cuidados com o espaço físico e com o marketing. Sem um planejamento tributário correto, o profissional da saúde pode pagar mais tributos do que deveria e deixar de usufruir dos benefícios fiscais aos quais tem direito. Para que o planejamento tributário seja eficaz, o profissional da saúde deverá conhecer as leis tributárias e acompanhar suas constantes alterações. Para isso, é preciso contar com a ajuda de um profissional de contabilidade. Eis cada um dos tributos que devem ser pagos pela sua clínica:
-
 seo:
   title: "Conheça os tributos que o seu consultório deve pagar"
   description: ""

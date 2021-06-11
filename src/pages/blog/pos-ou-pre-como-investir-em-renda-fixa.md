@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Produtos de renda fixa e variável em diferentes proporções são uma forma de manter uma carteira de investimentos mais rentável. Quando alguém adquire um determinado produto de renda fixa está, na verdade, emprestando o dinheiro a emissores, sejam eles um banco ou corretora, empresa privada ou governo. Em troca deste “empréstimo”, o investidor recebe uma determinada remuneração sobre o capital emprestado. Já mostramos, no post anterior, quanto investir em renda fixa. Veremos, agora, onde investir.
-
 seo:
   title: "Pós ou Pré? Como investir em renda fixa"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Vamos ser sinceros: quem não está em busca da tranquilidade financeira no futuro? De fato, independentemente da sua condição profissional, ter a possibilidade de não se preocupar com dinheiro é um privilégio que a maioria quer, mas que poucos conseguem.
-
 seo:
   title: "Como garantir sua tranquilidade financeira no futuro? Descubra aqui!"
   description: ""

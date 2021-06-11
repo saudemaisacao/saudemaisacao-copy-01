@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O interesse pelo mundo dos investimentos têm crescido bastante no Brasil e, para seguir esse caminho, é preciso ter objetivos bem definidos, um montante para começar e, claro, conhecer o seu perfil de investidor. Por isso, preparamos uma série de artigos, nos quais vamos explicar cada um desses perfis, começando pelo investidor conservador.
-
 seo:
   title: "Perfis de investimento: o que caracteriza o investidor conservador?"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Um fator determinante para o sucesso do investimento em ações é saber escolher, dentre as várias empresas, quais são boas e lucrativas para se tornar sócio. É como em uma pescaria: é preciso saber onde jogar o anzol para aumentar as chances de sucesso.
-
 seo:
   title: "Como montar uma carteira de ações lucrativas?"
   description: ""

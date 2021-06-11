@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Quando o assunto é os convênios médicos, é natural que até mesmo os profissionais mais experientes, com uma ampla vivência na medicina, tenham dúvidas se realmente vale a pena fechar contrato com eles. Isso ocorre porque, como tudo nessa vida, os convênios têm lados positivos e negativos.
-
 seo:
   title: "Conheça os prós e contras de atender por convênios médicos"
   description: ""

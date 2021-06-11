@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Na época em que vivemos, é comum as pessoas compartilharem coisas como carros e casas. O mercado financeiro também está inserido nesse contexto, com o aluguel de ações — que pode ser uma ótima maneira de ganhar uma renda extra.
-
 seo:
   title: "A importância e os benefícios de uma vida financeira saudável"
   description: ""

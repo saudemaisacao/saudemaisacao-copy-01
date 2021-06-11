@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Caros amigos leitores. Agora que já está sobrando dinheiro todos os meses e que a reserva de segurança já está construída, é hora de construir e multiplicar o patrimônio. Para isso, é preciso investir o dinheiro de forma que ele passe a trabalhar a seu favor. É este patrimônio que será a fonte de renda futura; renda capaz de pagar as contas e, portanto, proporcionar a independência financeira.
-
 seo:
   title: "Construção e Multiplicação do Patrimônio: Fazendo o dinheiro trabalhar a seu favor"
   description: ""

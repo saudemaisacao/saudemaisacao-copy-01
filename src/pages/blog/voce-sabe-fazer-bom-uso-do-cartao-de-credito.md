@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O número de famílias brasileiras endividadas aumentou entre janeiro e fevereiro deste ano. Segundo a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), 56,2% dos brasileiros têm dívidas. E parte delas é agravada, justamente, pelo mau uso do cartão de crédito. Veja, a seguir, as principais vantagens e desvantagens do uso dele:
-
 seo:
   title: "Você sabe fazer bom uso do cartão de crédito?"
   description: ""

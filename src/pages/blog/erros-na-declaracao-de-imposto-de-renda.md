@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   No início do ano é hora de pensar sobre a sua declaração do Imposto de Renda. Apesar de ser um processo anual, é comum surgirem muitas dúvidas sobre o assunto. O melhor a fazer é esclarecê-las antes de submeter suas informações ao Fisco, já que erros na declaração do imposto de renda podem fazer com que você caia na malha fina da Receita Federal.
-
 seo:
   title: "4 erros imperdoáveis para evitar na declaração de imposto de renda"
   description: ""

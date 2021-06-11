@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Prazo para declarar imposto de renda vai até 28 de abril.
-
 seo:
   title: "IR 2017: Veja como pagar menos"
   description: ""

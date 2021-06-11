@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O conceito de inteligência financeira gira em torno da sabedoria e do domínio em lidar com os recursos financeiros que se ganha, bem como com o quanto se gasta. Afinal, o dinheiro não pode ditar as regras em sua vida. Ao contrário, você é quem precisa mandar nele.
-
 seo:
   title: "Saiba como desenvolver inteligência financeira com 4 dicas"
   description: ""
@@ -23,8 +22,9 @@ Engana-se quem pensa que isso é coisa apenas para ricos. Desenvolver a intelig�
 
 Por isso, listamos 4 dicas para que você consiga desenvolver sua inteligência financeira. Confira!
 
-1. Acompanhe seu patrimônio líquido
-   A ideia de gastar menos do que se ganha é simples, mas nem por isso deixa de ser desafiadora para muitas pessoas. Ao se deparar com as contas que não fecham, muitos acabam ficando estressados, com uma dor de cabeça enorme.
+## 1. Acompanhe seu patrimônio líquido
+
+A ideia de gastar menos do que se ganha é simples, mas nem por isso deixa de ser desafiadora para muitas pessoas. Ao se deparar com as contas que não fecham, muitos acabam ficando estressados, com uma dor de cabeça enorme.
 
 Isso costuma tirar seu sono, pois mês após mês, no lugar de ficar mais rico, você fica cada vez mais pobre. O dinheiro que sai do seu bolso vai todo para produzir a riqueza de outras pessoas, e a frustração de trabalhar diariamente e não conseguir juntar nada é desanimadora.
 
@@ -34,8 +34,9 @@ O passivo é todo bem ou obrigação que traz gasto ou prejuízo. São exemplos 
 
 Subtraindo-se o passivo do ativo (isto é, o quanto se tem menos o quanto se deve), tem-se o patrimônio líquido que é a verdadeira medida da riqueza de uma pessoa. O PL mostra quanto vale o patrimônio de uma pessoa. Para aumentar o PL deve-se reduzir o passivo, aumentar o ativo ou, mais aconselhável, fazer ambos.
 
-2. Tome cuidado com quantias pequenas
-   Depois de fazer uma lista com o seu ativo e passivo, procure fazer uma análise, com calma, a fim de entender como você gasta o seu dinheiro. Muitas vezes, é surpreendente a forma que os valores menores podem exercer uma grande influência nas suas finanças.
+## 2. Tome cuidado com quantias pequenas
+
+Depois de fazer uma lista com o seu ativo e passivo, procure fazer uma análise, com calma, a fim de entender como você gasta o seu dinheiro. Muitas vezes, é surpreendente a forma que os valores menores podem exercer uma grande influência nas suas finanças.
 
 Pode acreditar: esses pequenos gastos do dia a dia costumam ser os culpados em tirar mais dinheiro do seu bolso do que você imagina, impedindo que você consiga poupar. Ao estudá-los, você vai compreender que os controles farão uma grande diferença no seu orçamento.
 
@@ -45,8 +46,9 @@ Se você escolher investir esse dinheiro, no lugar de gastá-lo, terá rendiment
 
 Esse é um dos conceitos básicos para o desenvolvimento da inteligência financeira.
 
-3. Controle os impulsos
-   Como foi dito acima, não dá para ser radical e abrir mão de todos os pequenos prazeres da vida. Mas, para ser inteligente financeiramente, a cada compra que você fizer, procure refletir e se questionar se você realmente precisa daquele produto ou serviço que adquiriu.
+## 3. Controle os impulsos
+
+Como foi dito acima, não dá para ser radical e abrir mão de todos os pequenos prazeres da vida. Mas, para ser inteligente financeiramente, a cada compra que você fizer, procure refletir e se questionar se você realmente precisa daquele produto ou serviço que adquiriu.
 
 Uma dica para evitar comprar mais do que você deveria é fazer uma lista. Sempre que você identificar uma necessidade de compra, anote o item nessa lista. Essa atitude, além de te ajudar a lembrar do que você precisa, também auxiliará no controle de possíveis impulsos de consumo.
 
@@ -58,8 +60,9 @@ Controlar os impulsos também está relacionado ao fato de evitar realizar compr
 
 Nada mais saudável para sua vida financeira (e para a sua mente!) do que viver dentro da realidade do seu padrão de vida. Só assim você evitará passar por apuros desnecessários com juros e dívidas.
 
-4. Invista uma parte
-   Agora que você já consegue acompanhar suas despesas e receitas, tomar cuidado com os pequenos gastos e controlar seus impulsos, provavelmente será iniciado o período em que você verá sobrar dinheiro na sua conta ao final do mês.
+## 4. Invista uma parte
+
+Agora que você já consegue acompanhar suas despesas e receitas, tomar cuidado com os pequenos gastos e controlar seus impulsos, provavelmente será iniciado o período em que você verá sobrar dinheiro na sua conta ao final do mês.
 
 Ao atingir esse equilíbrio financeiro, está na hora que começar a pensar a fazer parte do mundo dos investimentos. Existem opções de fácil acesso e ótima rentabilidade no mercado financeiro. Se você investir com inteligência, sua prosperidade financeira estará cada vez mais próxima.
 

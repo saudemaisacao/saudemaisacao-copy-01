@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O universo das moedas digitais, especificamente Bitcoin, teve uma popularização bastante expressiva de 2016 para cá. Mesmo que a moeda tenha sido desenvolvida há 10 anos, pelo misterioso Satoshi Nakamoto, de lá para cá ela teve uma longa trajetória e, ainda assim, muitos investidores têm dúvidas se vale a pena investir em criptomoedas.
-
 seo:
   title: "Vale a pena investir em criptomoedas? Descubra aqui!"
   description: ""

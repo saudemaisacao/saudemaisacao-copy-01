@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Saber quanto vale uma companhia e seus ativos é fundamental em qualquer estratégia de investimento. A seguir, o que deve ser procurado no relatório anual de qualquer empresa.
-
 seo:
   title: "De olho no relatório"
   description: ""

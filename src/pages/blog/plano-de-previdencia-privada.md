@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Ainda que você tenha direito à previdência social com as contribuições que faz ao INSS, sugerimos que saiba mais sobre a importância de ter um plano de previdência privada. Dado que o INSS está passando por muitas incertezas, não é aconselhável nem saudável depender dele para pagar as contas.
-
 seo:
   title: "Plano de previdência privada: qual o momento certo para investir?"
   description: ""

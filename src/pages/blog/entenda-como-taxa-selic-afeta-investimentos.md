@@ -1,22 +1,13 @@
 ---
 title: Entenda como a taxa Selic afeta os investimentos e planeje-se
-<<<<<<< Updated upstream
-date: '2018-12-11'
-=======
-subtitle:
 date: "2018-12-11"
->>>>>>> Stashed changes
+subtitle:
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: "Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa."
 seo:
-<<<<<<< Updated upstream
-  title: 'Entenda como a taxa Selic afeta os investimentos e planeje-se'
-  description: ''
-=======
   title: "Entenda como a taxa Selic afeta os investimentos e planeje-se"
   description: 'Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa.'
->>>>>>> Stashed changes
   robots: []
   extra: []
   type: stackbit_page_meta

@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Uma carteira de investimentos segura e rentável deve conter, em sua composição, produtos de renda fixa e variável em diferentes proporções. Mas você sabe o que é e o quanto investir em renda fixa?
-
 seo:
   title: "Você sabe quanto investir em renda fixa?"
   description: ""

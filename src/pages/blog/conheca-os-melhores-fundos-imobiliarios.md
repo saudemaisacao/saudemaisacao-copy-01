@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Já falamos aqui sobre como investir em produtos imobiliários e explicamos por que os fundos imobiliários (FIIs) acabam sendo mais interessantes do que a compra e venda de imóveis físicos, por exemplo. Mas como qualquer investimento, os FIIs também têm vantagens e desvantagens. Confira quais são elas antes de investir nessa modalidade de renda fixa:
-
 seo:
   title: "Conheça os melhores fundos imobiliários"
   description: ""

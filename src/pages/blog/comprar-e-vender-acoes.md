@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O mundo da renda variável pode ser um local de difícil exploração, não porque é impedido o acesso, mas por falta de conhecimento. Nesse caso, existe uma atividade que é bastante falada quando pensamos em investimentos, mas poucos sabem realmente como funciona: comprar e vender ações.
-
 seo:
   title: "Comprar e vender ações: como fazer de maneira lucrativa?"
   description: ""

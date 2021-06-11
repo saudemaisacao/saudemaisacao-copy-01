@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de investimento que nos últimos anos tiveram uma grande popularização. Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00.
-
 seo:
   title: "Como investir em títulos públicos por meio do tesouro direto? Descubra aqui!"
   description: ""

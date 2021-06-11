@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O nosso principal objetivo com o Saúde + Ação — um projeto criado para ajudar profissionais da saúde a cuidarem de suas finanças pessoais e de seus consultórios e clínicas — é mostrar, de forma clara e prática, os caminhos que levarão vocês a se tornarem pessoas ricas. E ser uma pessoa rica vai muito além de, simplesmente, ter dinheiro. Isso porque o dinheiro é apenas um meio, e não um fim.
-
 seo:
   title: "O (outro) lado bom de ser uma pessoa rica"
   description: ""

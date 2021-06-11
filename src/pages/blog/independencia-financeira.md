@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >- 
 A independência financeira pode ter sentidos diferentes para as pessoas. Ela pode simbolizar, por exemplo, ser livre para fazer o que quiser, como uma viagem ou adquirir a casa própria. Mas a maioria entende que essa expressão significa possuir recursos financeiros suficientes para não ter que depender do trabalho para gerar renda e, desta forma, ter a liberdade de exercer só as tarefas que trazem satisfação.
-
 seo:
   title: "Entenda como a taxa Selic afeta os investimentos e planeje-se"
   description: ""

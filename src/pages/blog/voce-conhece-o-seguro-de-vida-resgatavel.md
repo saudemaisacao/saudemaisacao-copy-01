@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   A proteção de patrimônio, como o próprio nome diz, significa assegurar os bens ainda em construção ou mesmo já construídos para o caso de uma situação inesperada. Nós, brasileiros, estamos acostumados a contratar seguro para o carro e seguro saúde, mas poucos se lembram de garantir o seguro do patrimônio. São os chamados seguros de vida resgatáveis.
-
 seo:
   title: "Você conhece o seguro de vida resgatável?"
   description: ""

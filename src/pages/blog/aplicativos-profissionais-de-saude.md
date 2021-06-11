@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   A tecnologia é uma grande aliada dos profissionais de saúde. Há aplicativos como o Epocrates, que traz qualquer tipo de informação sobre medicamentos, o Medscape, com artigos, notícias e calculadoras, e o Figure 1, considerado o Instagram dos médicos e onde publicam fotos de exames. Mas além de apps da categoria médica, há ferramentas empenhadas em ajudar esses profissionais a gerir suas finanças pessoais e os seus negócios com mais flexibilidade e eficiência. Selecionamos alguns deles:
-
 seo:
   title: "4 aplicativos indispensáveis para profissionais de saúde"
   description: ""

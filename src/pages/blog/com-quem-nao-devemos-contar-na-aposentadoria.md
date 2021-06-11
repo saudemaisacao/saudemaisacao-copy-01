@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Para alcançar o sucesso nos investimentos é preciso seguir os passos certos! E o planejamento financeiro é um dos principais caminhos para contar com um orçamento no verde (leia-se, uma sobra de dinheiro todos os meses). Mas você sabia que o dinheiro poupado ainda não deve ser investido? Isso mesmo. O ideal é que se construa uma reserva de segurança antes de investir. E cabe a cada um de nós, enquanto ainda jovens, saudáveis e ativos, construirmos um patrimônio gerador de renda crescente capaz de suprir as nossas necessidades.
-
 seo:
   title: "Com quem (não) devemos contar na aposentadoria"
   description: ""

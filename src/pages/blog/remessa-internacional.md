@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Você sabe o que é uma remessa internacional? Esse conceito pode parecer um pouco complexo inicialmente, especialmente para os investidores que estão no começo da sua jornada no mercado financeiro. Pensando na importância desse tema, neste post explicaremos detalhadamente o que são as remessas internacionais e informaremos como você pode utilizá-las nos investimentos.
-
 seo:
   title: "Remessas internacionais: saiba o que é e como usar para os investimentos no exterior"
   description: ""

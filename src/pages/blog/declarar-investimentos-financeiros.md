@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Você sabe como declarar investimentos financeiros? Trata-se de um procedimento burocrático, mas é necessário para estar em dia com as obrigações da Receita Federal. Não é novidade que o fisco tem aprimorado cada vez mais a fiscalização e, por isso, quem tiver alguma irregularidade pode cair na malha fina e ter várias dores de cabeça, o que ninguém deseja, não é mesmo?
-
 seo:
   title: "Como declarar os investimentos financeiros no imposto de renda?"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Saber como controlar o fluxo de caixa de uma clínica médica é fundamental para que o negócio possa ter destaque no mercado, proporcionando sua expansão sem tirar do foco a saúde financeira da empresa.
-
 seo:
   title: "Veja como controlar o fluxo de caixa da sua clínica do jeito certo"
   description: ""

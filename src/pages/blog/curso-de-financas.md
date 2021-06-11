@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Se você já tem um negócio ou planeja abrir um, independentemente do seu segmento: saber sobre finanças é essencial. Todas as organizações precisam estar muito atentas às suas finanças, visto que um bom planejamento financeiro é a base para o crescimento. Todavia, hoje em dia, existem diversos empreendedores que ainda não procuraram conhecimento a respeito desse assunto, que é de suma importância para seu negócio.
-
 seo:
   title: "Como avaliar a qualidade de um curso de finanças pessoais?"
   description: ""

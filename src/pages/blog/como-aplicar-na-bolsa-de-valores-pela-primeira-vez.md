@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   A bolsa de valores é um mercado on-line em que são negociadas ações de empresas e outros produtos financeiros, que inclui ativos das diversas naturezas desde ações de organizações dos mais diversos setores: bancário, de saúde, de consumo, entre outros, passando por fundos imobiliários, derivativos e commodities dentre outros. Para quem deseja uma carteira eficiente de investimento, ações são algo indispensável em sua composição, pois geram um retorno acima dos demais produtos no longo prazo.
-
 seo:
   title: "Guia rápido: como aplicar na bolsa de valores pela primeira vez"
   description: ""

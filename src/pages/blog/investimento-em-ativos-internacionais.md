@@ -4,8 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
 O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
-
-
 seo:
   title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
   description: ''

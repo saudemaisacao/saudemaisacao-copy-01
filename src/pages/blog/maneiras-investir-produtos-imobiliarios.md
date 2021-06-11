@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Assim como os investimentos em ações, os produtos imobiliários são considerados renda variável. As principais características deles são a segurança, a possibilidade de alta rentabilidade e a baixa liquidez – motivos pelos quais esse tipo de investimento não deve ser de curto nem de médio prazos. Existem, basicamente, três maneiras de investir nessa modalidade. São elas: compra e venda de imóveis físicos, compra e aluguel de imóveis, e investimento em Fundos de Investimento Imobiliários (FIIs). As duas primeiras costumam ser trabalhosas e exigem muitos recursos. Os FIIs, por sua vez, apresentam uma série de vantagens que os tornam atrativos para qualquer investidor.
-
 seo:
   title: "Conheça 3 maneiras de investir em produtos imobiliários"
   description: ""

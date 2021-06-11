@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Ao contrário do que possa parecer, para avaliar corretamente uma empresa, não é preciso ser um expert em matemática ou em contabilidade. Se isto fosse necessário, os contadores e matemáticos seriam os profissionais mais ricos do mercado. Mas existem alguns critérios simples que permitem, a qualquer investidor, saber se uma empresa é ou não adequada para ser sócio.
-
 seo:
   title: "Ações na bolsa: as ferramentas que indicam a saúde de uma empresa"
   description: ""

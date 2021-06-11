@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   A rotina de uma clínica é mesmo agitada. Ela vai desde o fluxo de pacientes até as marcações de consultas, e ainda é preciso cuidar da manutenção dos equipamentos! Contudo, por mais que as questões relacionadas à atividade médica sejam o foco principal, os gastos e rendimentos precisam ser bem gerenciados.
-
 seo:
   title: "Qual é a importância desse controle?"
   description: ""

@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Quem deseja compreender melhor como funciona o mercado de ações logo vê a importância de estar sempre atualizado com o que acontece nele. Isso é particularmente importante para os traders. Por isso, é fundamental buscar ferramentas para acompanhar o Ibovespa em tempo real.
-
 seo:
   title: "Onze aplicativos para acompanhar a bolsa no celular"
   description: ""
@@ -17,7 +16,7 @@ thumb_image: /images/blog/ibovespa-em-tempo-real.jpeg
 image: /images/blog/ibovespa-em-tempo-real.jpeg
 ---
 
-\_Quem deseja compreender melhor como funciona o mercado de ações logo vê a importância de estar sempre atualizado com o que acontece nele. Isso é particularmente importante para os traders. Por isso, é fundamental buscar ferramentas para acompanhar o Ibovespa em tempo real.
+Quem deseja compreender melhor como funciona o mercado de ações logo vê a importância de estar sempre atualizado com o que acontece nele. Isso é particularmente importante para os traders. Por isso, é fundamental buscar ferramentas para acompanhar o Ibovespa em tempo real.
 
 Muitos de nós lidamos com outras ocupações e não conseguimos ficar conectados aos altos e baixos da B3 o dia todo. A boa notícia é que, com a mobilidade, cada vez mais portais, bancos e corretoras lançam aplicativos que permitem acompanhar e negociar ativos no mercado pelo celular, em tempo real, a qualquer hora e em qualquer lugar.
 

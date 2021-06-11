@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   É comum que as pessoas tenham dúvidas sobre investir em fundos imobiliários, pois essa ainda é uma aplicação relativamente nova para muitos investidores que estão buscando diversificar a sua carteira.
-
 seo:
   title: "Vale a pena investir em fundos imobiliários? Descubra agora!"
   description: ""

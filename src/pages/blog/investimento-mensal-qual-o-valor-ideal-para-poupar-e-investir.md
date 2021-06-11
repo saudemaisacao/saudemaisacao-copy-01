@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Uma questão importante para quem deseja conquistar e manter a independência financeira é definir o quanto deve poupar e qual investimento mensal deverá ser feito. Poupar significa deixar de consumir uma parte da renda. Por exemplo, se você ganha R$ 10 mil e gasta R$ 8 mil, você poupará R$ 2 mil.
-
 seo:
   title: "Investimento mensal: qual o valor ideal para poupar e investir?"
   description: ""

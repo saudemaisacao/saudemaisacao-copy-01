@@ -3,16 +3,15 @@ title: "Como montar um plano de investimentos para o próximo ano"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-Para muitos, entrar para o mundo dos negócios e começar a investir é um processo complexo. Em primeiro lugar, tudo o que envolve nossas finanças exige um cuidado, já que um erro pode ser fatal. Em segundo lugar, ao se tratar de aplicações, o interessado ainda precisa lidar com a imprevisibilidade do mercado. Não é à toa que criar um plano de investimento pode ser a melhor resposta para lidar com essa situação.
-
+  Para muitos, entrar para o mundo dos negócios e começar a investir é um processo complexo. Em primeiro lugar, tudo o que envolve nossas finanças exige um cuidado, já que um erro pode ser fatal. Em segundo lugar, ao se tratar de aplicações, o interessado ainda precisa lidar com a imprevisibilidade do mercado. Não é à toa que criar um plano de investimento pode ser a melhor resposta para lidar com essa situação.
 seo:
-  title: 'Como montar um plano de investimentos para o próximo ano'
-  description: ''
+  title: "Como montar um plano de investimentos para o próximo ano"
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2018-12-10'
+date: "2018-12-10"
 thumb_image: /images/blog/plano-de-investimentos.jpg
 image: /images/blog/plano-de-investimentos.jpg
 ---

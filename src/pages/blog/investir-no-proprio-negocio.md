@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Dentre todas as formas de investimento disponíveis, o negócio próprio é o que apresenta o maior risco, inclusive superando o de investir em ações. Ao assumir essa empreitada, o profissional terá que administrar funcionários, exigências legais, custos com burocracias, papeladas exigidas pelo contador e pelo governo, qualidade dos produtos e/ou serviços, grau de satisfação dos clientes e dos sócios, riscos de fornecedores e, claro, a concorrência acirrada.
-
 seo:
   title: "Os riscos e as vantagens de investir no próprio negócio"
   description: ""

@@ -1,6 +1,5 @@
 ---
-title: "Descubra qual o melhor investimento para aposentadoria!
-"
+title: "Descubra qual o melhor investimento para aposentadoria!"
 date: "2020-03-12"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum

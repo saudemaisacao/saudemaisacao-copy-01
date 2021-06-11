@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Saúde+Ação é uma das participantes do MedBusiness 2017, evento realizado por alunos da FMUSP que acontece nos dias 20 e 21 de setembro
-
 seo:
   title: "Evento debate empreendedorismo e gestão em medicina"
   description: ""

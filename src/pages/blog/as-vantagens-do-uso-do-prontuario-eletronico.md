@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Nas últimas décadas, a tecnologia tem revolucionado a indústria da saúde. Os avanços são capazes não só de reduzir gastos e aumentar a eficiência, como também de entregar mais qualidade e segurança aos pacientes. Para se ter uma ideia, a previsão é de que, até o final deste ano, todas as unidades de atendimento básico do SUS estejam utilizando prontuário eletrônico.
-
 seo:
   title: "As vantagens do uso do prontuário eletrônico"
   description: ""

@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Curso de Finanças Pessoais e Investimento da Saúde + Ação Educação e Planejamento Financeiro
-
 seo:
   title: "Ensinando como cuidar da sua saúde financeira. Agora em São Luis!"
   description: ""

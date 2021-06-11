@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Todos os dias, um grande número de pessoas decide sair da poupança quando descobrem o quão desvantajoso é esse investimento. O qual, muitas vezes, até mesmo os leva a sofrer prejuízo, entregando uma rentabilidade menor do que a inflação apurada no período. A grande questão é que, por mais que essa aplicação em especial seja ruim, sem saber onde alocar seu dinheiro, muitas pessoas ficam presas a ela.
-
 seo:
   title: "Conheça as 5 melhores alternativas para sair da poupança"
   description: ""

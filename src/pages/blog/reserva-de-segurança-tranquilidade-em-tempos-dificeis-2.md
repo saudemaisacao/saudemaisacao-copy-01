@@ -4,7 +4,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Caros leitores. Esperamos que todos estejam sentindo os benefícios de ter um orçamento mensal no verde. Sabemos que todos vocês já estão ansiosos para investir o dinheiro da forma correta e para ficarem cada vez mais próximos do primeiro milhão. Entretanto, de nada adianta investir o dinheiro se, numa situação inesperada, vocês consumirem todo o investimento! Assim, o patrimônio não conseguirá crescer a ponto de lhes fornecer renda futura.
-
 seo:
   title: "Reserva de segurança: Tranquilidade em tempos difíceis"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Este blog post vai explicar para você, que deseja ter fontes de recursos fora do país, como investir dinheiro no exterior. Dessa forma, você saberá com o que deve se preocupar, a fim de gerir seus rendimentos da maneira correta.
-
 seo:
   title: "Aprenda como investir dinheiro no exterior agora mesmo!"
   description: ""

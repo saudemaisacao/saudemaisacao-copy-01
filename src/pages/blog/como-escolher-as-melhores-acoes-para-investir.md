@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O mundo da bolsa de valores pode parecer um pouco assustador em um primeiro momento. Apesar disso, boa parte do que acontece lá não é um bicho de sete cabeças e há espaço para todos os tipos de investidores.
-
 seo:
   title: "Como escolher as melhores ações para investir?"
   description: ""

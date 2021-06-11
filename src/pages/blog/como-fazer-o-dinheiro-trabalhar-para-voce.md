@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Investir é multiplicar a riqueza por meio de juros compostos, ou seja, juros sobre juros. Portanto, para ter sucesso nessa empreitada, precisamos de três coisas: recursos, juros compostos e tempo. Esses são os ingredientes para enriquecer.
-
 seo:
   title: "Como fazer o dinheiro trabalhar para você? Entenda!"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Vira e mexe, temos a sensação de que o dia não “rendeu” e de que não temos tempo para nada. Mas ao mesmo tempo, olhamos a nossa volta e percebemos que algumas pessoas conseguem ser mais produtivas.
-
 seo:
   title: "Como evitar os ladrões do tempo."
   description: ""

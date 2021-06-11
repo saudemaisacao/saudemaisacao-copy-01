@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Uma carteira de investimentos segura e rentável deve conter produtos de renda fixa e de renda variável (que variam para cima e para baixo) em diferentes proporções. Sem dúvida, um dos produtos que não pode deixar de fazer parte da carteira são as ações, uma vez que elas proporcionam alta liquidez e rendimentos acima da renda fixa. Para quem nunca fez esse tipo de investimento, conhecer seus principais mecanismos e jargões é um bom começo.
-
 seo:
   title: "Fique por dentro dos principais jargões do mercado de ações."
   description: ""

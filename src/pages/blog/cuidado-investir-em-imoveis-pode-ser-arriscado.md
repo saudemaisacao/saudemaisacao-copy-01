@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Já falamos aqui sobre as três formas de investir em produtos imobiliários. Isso pode se dar pelo investimento em Fundos de Investimentos Imobiliários (FIIs), pela compra e venda de imóveis físicos e, por fim, pela compra e aluguel de imóveis. O problema é que investir nesse tipo de bem exige recursos e dedicação. E, mais do que isso, envolve riscos. Confira, aqui, os principais deles:
-
 seo:
   title: "Cuidado! Investir em imóveis pode ser arriscado"
   description: ""

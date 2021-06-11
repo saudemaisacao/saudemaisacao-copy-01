@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Você sabia que as empresas podem negociar suas ações na bolsa de valores por meio do IPO de ações? Com isso, os investidores conseguem adquirir participações nas organizações. Para este ano, a expectativa é que várias instituições brasileiras abram seus capitais, no Brasil e também no exterior.
-
 seo:
   title: "IPO de ações: entenda o que é a sigla e saiba como investir!"
   description: ""

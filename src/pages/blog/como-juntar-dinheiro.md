@@ -5,7 +5,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Você está se perguntando como juntar dinheiro e acha que a resposta inclui, necessariamente, grandes sacrifícios que o farão perder qualidade de vida? A boa notícia é que esse pensamento está errado.
-
+seo:
   title: "Como juntar dinheiro: veja 6 formas de construir riqueza"
   description: ""
   robots: []

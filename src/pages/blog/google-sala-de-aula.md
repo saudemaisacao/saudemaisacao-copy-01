@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   O avanço das tecnologias, principalmente direcionadas ao mundo virtual, trouxeram um mundo de possibilidades. Hoje em dia, é possível acessar diferentes tipos de conteúdos e conhecer uma infinidade de assuntos. É claro que, no quesito ensino, os aparatos tecnológicos não poderiam ser mais bem-vindos, inclusive, com a existência de uma plataforma exclusiva para o ensino: o google sala de aula ou classroom.
-
 seo:
   title: "Descubra 5 dicas para economizar no consultório"
   description: ""

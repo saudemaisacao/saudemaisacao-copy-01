@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Para alcançar sua independência financeira, você precisa saber como montar uma carteira de investimentos. Desse modo, seu dinheiro trabalhará para garantir a sua tranquilidade quando você parar de trabalhar.
-
 seo:
   title: "Como montar uma carteira de investimentos em 5 passos"
   description: ""

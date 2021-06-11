@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Com o apoio do Conselho Federal de Medicina (CFM), SoPE (Society of Physician Entrepreneurs) e Insper, a Saúde mais Ação Educação e Planejamento Financeiro estará no Fórum Médicos S/A, que será nos dias 15 e 16 de setembro, no WTC – São Paulo.
-
 seo:
   title: "O maior evento sobre Carreira, Finanças e Empreendedorismo Médico da Medicina Brasileira"
   description: ""
