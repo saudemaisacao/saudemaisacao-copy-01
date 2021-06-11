@@ -1,12 +1,12 @@
 ---
-title: Journal
-subtitle: 'News, tips and highlights'
+title: Blog
+subtitle: 'Novidades, dicas e destaques'
 hide_title: false
 col_number: three
 seo:
   type: stackbit_page_meta
-  title: Journal
-  description: This is the journal page
+  title: Novidades
+  description: Aprofunde seus conhecimentos sobre investimentos
   extra:
     - name: 'og:type'
       value: website

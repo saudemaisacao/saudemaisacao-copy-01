@@ -4,121 +4,121 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
-  - type: portfolio_section
-    section_id: latest-projects
-    title: Recent Work
-    subtitle: Explore case studies
+    title: Saúde+Ação
+    hero_items:
+      - type: hero_item
+        title: A Saúde Mais Ação fez uma parceria com a StartSe
+        subtitle: >-
+          Uma empresa de educação pioneira quando o assunto é tecnologias
+          disruptivas.
+        background: /images/bg-parceria-startse.jpg
+        image: null
+        image_alt: Parceria com a StartSe
+        light_text: true
+        actions:
+          - label: saiba mais
+            url: /parceria-startse
+            style: button
+            icon: instagram
+            new_window: false
+            no_follow: false
+            type: action
+      - type: hero_item
+        title: Baixe o APP Saúde Investimentos
+        subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
+        background: /images/bg-app.jpg
+        image: /images/mockup-app2.png
+        image_alt: App saúde investimentos
+        light_text: true
+        actions:
+          - label: Google Play
+            url: >-
+              https://play.google.com/store/apps/details?id=com.bredi.saudeinvestimentos
+            style: button
+            icon: instagram
+            new_window: false
+            no_follow: false
+            type: action
+          - label: App Store
+            url: >-
+              https://itunes.apple.com/br/app/sa%C3%BAde-investimentos/id1281517519?mt=8
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+      - type: hero_item
+        title: Conheça a estratégia “Enriquecer faz bem à saúde”
+        subtitle: >-
+          Já ensinamos milhares de médicos a como construir sua independência
+          financeira
+        background: /images/bg-estrategia.jpg
+        image: /images/mockup-notebook2.png
+        image_alt: Enriquecer faz bem a saúde
+        light_text: true
+        actions:
+          - label: saiba mais
+            url: '#'
+            style: button
+            icon: instagram
+            new_window: false
+            no_follow: false
+            type: action
+  - section_id: blog
+    title: Últimas notícias
+    subtitle: Aprenda a investir e conquiste liberdade financeira
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: posts_section
+  - section_id: cursos
+    title: Conheça nossos cursos
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    items_number: 2
+    view_all_label: Ver todos
+    view_all_url: cursos
+    type: cursos_section
+  - section_id: downloads
+    title: e-Books gratuitos
+    subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
-  - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
-    col_number: three
-    grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Logo 4
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - type: grid_item
-        title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - type: grid_item
-        title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - type: grid_item
-        title: Experience design
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
+    items_number: 2
+    view_all_label: Ver todos
+    view_all_url: downloads
+    type: downloads_section
+  - section_id: cta
+    type: cta_section
+    title: Alguma dúvida?
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
     actions:
       - type: action
-        label: Let's start
+        label: Entrar em contato
         url: /contact
         style: button
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-seo:
-  type: stackbit_page_meta
-  title: Award Winning Agency Based in San Francisco
-  description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
-    - name: 'twitter:description'
-      value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+  - section_id: newsletter
+    title: Receba conteúdo gratuito
+    subtitle: Inscreva-se na newsletter e receba todas as novidades!
+    content: >
+      ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
+      investir agora.
+    form_id: form-newsletter
+    form_action: enviar
+    form_fields:
+      - input_type: text
+        name: seu-email@exemplo.com
+        label: Seu melhor e-mail
+        default_value: seu-email@exemplo.com
+        options: []
+        is_required: false
+        type: form_field
+    hide_labels: false
+    submit_label: Quero receber conteúdo
+    type: form_section
 template: advanced
 ---

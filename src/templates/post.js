@@ -3,7 +3,7 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
 
-import {Layout} from '../components/index';
+import {DownloadsSection, Layout} from '../components/index';
 import {withPrefix, htmlToReact, getPages} from '../utils';
 import BlogFeedItem from '../components/BlogFeedItem';
 
@@ -48,7 +48,7 @@ export default class Post extends React.Component {
               </div>
               <footer className="post__meta">
                 <div className="container container--md">
-                  Posted on <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time>
+                  Postado em <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%d de %B de %Y')}</time>
                 </div>
               </footer>
             </article>
@@ -63,7 +63,8 @@ export default class Post extends React.Component {
                     (post_index_length > 0) && (
                     <nav key={post_item_idx} className="section section--posts">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">Read Next</h2>
+
+                        <h2 className="section__title line-top">Leia também</h2>
                         <div className="grid post-feed post-feed--col-two">
                           {(curr_index !== 0) && ((() => {
                               let prev_post = posts_sorted[prev_index];
@@ -77,6 +78,12 @@ export default class Post extends React.Component {
                                 <BlogFeedItem {...this.props} post_page={next_post} />
                               );
                           })())}
+                        </div>
+            
+                        <h2 className="section__title line-top">e-Books gratuitos</h2>
+                        <p className="section__subtitle"></p>
+                        <div className="extra-section">
+                        <DownloadsSection {...this.props} />
                         </div>
                       </div>
                     </nav>

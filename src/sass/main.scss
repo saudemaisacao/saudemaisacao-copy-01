@@ -1,8 +1,22 @@
 // Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
+@font-face {
+  font-family: "HelveticaNowDisplay", sans-serif;
+  src: url('/static/fonts/HelveticaNowDisplay-ExtBlk.ttf') format("truetype"),
+       url("/static/fonts/HelveticaNowDisplay-ExtBlk.woff2") format("woff2"),
+       url("/static/fonts/HelveticaNowDisplay-ExtBlk.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
 $fonts: (
-  fraunces: ("Fraunces", serif),
-  karla: ("Karla", sans-serif),
-  system-sans: (-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif)
+  serif: ("HelveticaNowDisplay", sans-serif),
+  sans-serif: ("Montserrat", sans-serif),
+  system-sans: (-apple-system, BlinkMacSystemFont, "Segoe UI", "Montserrat", Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif)
 );
 
 // Colors
@@ -16,12 +30,14 @@ $color-gray-600: #2f3845 !default;
 $color-gray-700: #1f2937 !default;
 $color-gray-800: #18202a !default;
 $color-gray-900: #121920 !default;
-$color-accent:   #d8195e !default;
+$color-primary:  #78EAEA !default;
+$color-accent: #56C6CC !default;
+$color-titles: #00535B !default;
 
 // Alternative accent colors
 $accent-colors: (
-  blue:   #0c8aea,
-  green:  #10b981,
+  blue:   #78EAEA,
+  green:  #56C6CC,
   red:    #fa292a,
   violet: #7c43a8,
   yellow: #ed9700

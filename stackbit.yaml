@@ -9,43 +9,44 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 logicFields:
-  - portfolio_section.projects_number
+  - portfolio_section.items_number
+  - downloads_section.items_number
   - posts_section.posts_number
-  - advanced.sections.projects_number
+  - advanced.sections.items_number
   - advanced.sections.posts_number
 models:
   config:
     type: config
-    label: Site Configuration
+    label: Configurações do site
     fields:
       - type: string
         name: title
-        label: Title
-        description: Site title
+        label: Título
+        description: Título do site
         required: true
       - type: string
         name: domain
-        label: Domain
+        label: Domínio
         description: >-
-          The domain of your site, including the protocol, e.g.
+          O domínio do seu site incluindo o protocolo, e.x.
           https://mysite.com
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: O ícone que representa seu site
       - type: enum
         name: color_scheme
-        label: Color scheme
+        label: Esquema de cores
         description: The color scheme used for the site
         options:
-          - light
-          - dark
-        default: light
+          - claro
+          - escuro
+        default: claro
         required: true
       - type: enum
         name: accent_color
-        label: Accent color
-        description: The accent color of the site
+        label: Cor de destaque
+        description: A cor de destaque do seu site
         options:
           - pink
           - green
@@ -56,7 +57,7 @@ models:
         required: true
       - type: enum
         name: base_font
-        label: Font
+        label: Fonte
         options:
           - fraunces
           - karla
@@ -65,22 +66,22 @@ models:
         required: true
       - type: model
         name: header
-        label: Header Configuration
+        label: Configurações de Cabeçalho
         models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Configurações de Rodapé
         models:
           - footer
   header:
     type: object
-    label: Header Configuration
+    label: Configurações de Cabeçalho
     labelField: title
     fields:
       - type: string
         name: title
-        label: Header title
+        label: Título do Cabeçalho
         description: The title displayed in the header if no logo image added
       - type: image
         name: logo
@@ -92,12 +93,12 @@ models:
         description: The alt text of the logo image
       - type: boolean
         name: has_nav
-        label: Enable navigation menu
+        label: Ativar menu de navegação
         description: Display the navigation menu bar in the header
         default: true
       - type: list
         name: nav_links
-        label: Navigation links
+        label: Links de navegação
         description: A list of navigation links
         items:
           type: model
@@ -105,7 +106,7 @@ models:
             - action
   footer:
     type: object
-    label: Footer Configuration
+    label: Configurações de Rodapé
     labelField: content
     fields:
       - type: string
@@ -135,23 +136,23 @@ models:
             - action
   advanced:
     type: page
-    label: Advanced Page
+    label: Página avançacada
     layout: advanced
     hideContent: true
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Título
+        description: O título da página
         required: true
       - type: boolean
         name: hide_title
-        label: Hide page title
+        label: Esconder título da página
         default: true
       - type: list
         name: sections
-        label: Sections
-        description: Page sections
+        label: Seções
+        description: Seções da página
         items:
           type: model
           models:
@@ -159,10 +160,15 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - portfolio_section
+            - cursos_section
+            - downloads_section
             - posts_section
             - testimonials_section
             - form_section
+      - type: image
+        name: thumb_image
+        label: Thumbnail image
+        description: The image shown in the portfolio grid
       - type: model
         name: seo
         models:
@@ -178,12 +184,12 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Título
+        description: O título da página
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Subtítulo
         description: The text shown just below the page title
       - type: boolean
         name: hide_title
@@ -202,12 +208,46 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  portfolio:
+  cursos:
     type: page
-    urlPath: /portfolio
-    label: Portfolio
-    layout: portfolio
-    file: portfolio/index.md
+    urlPath: /cursos
+    label: Todos os cursos
+    layout: cursos
+    file: cursos/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: O título da página
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtítulo
+        description: The text shown just below the page title
+      - type: boolean
+        name: hide_title
+        label: Hide page title and subtitle
+        default: false
+      - type: enum
+        name: layout_style
+        label: Layout style
+        description: The style of the portfolio layout
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  downloads:
+    type: page
+    urlPath: /downloads
+    label: Todos os downloads
+    layout: downloads
+    file: downloads/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -227,7 +267,7 @@ models:
       - type: enum
         name: layout_style
         label: Layout style
-        description: The style of the portfolio layout
+        description: O layout da seção de downloads
         options:
           - mosaic
           - tiles
@@ -238,16 +278,17 @@ models:
           - stackbit_page_meta
   page:
     type: page
-    label: Page
+    label: Página
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - cursos/**
+      - downloads/**
     fields:
       - type: string
         name: title
         label: Title
-        description: The title of the page
+        description: O título da página
         required: true
       - type: string
         name: subtitle
@@ -268,14 +309,14 @@ models:
   post:
     type: page
     urlPath: '/blog/{slug}'
-    label: Post
+    label: Postagem
     layout: post
     folder: blog
     fields:
       - type: string
         name: title
         label: Title
-        description: The title of the post
+        description: O título da postagem
         required: true
       - type: string
         name: subtitle
@@ -309,18 +350,18 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  project:
+  curso:
     type: page
-    urlPath: '/portfolio/{slug}'
-    label: Project
-    layout: project
-    folder: portfolio
+    urlPath: '/cursos/{slug}'
+    label: Cursos
+    layout: advanced
+    folder: cursos
     hideContent: true
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the project
+        label: Título
+        description: O título do curso
         required: true
       - type: string
         name: subtitle
@@ -340,13 +381,69 @@ models:
         description: The alt text of the thumbnail image
       - type: list
         name: sections
-        label: Sections
-        description: Project sections
+        label: Seções
+        description: Seções da página
         items:
           type: model
           models:
-            - image_section
-            - text_section
+            - hero_section
+            - content_section
+            - cta_section
+            - grid_section
+            - cursos_section
+            - downloads_section
+            - posts_section
+            - testimonials_section
+            - form_section
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  download:
+    type: page
+    urlPath: '/downloads/{slug}'
+    label: Downloads
+    layout: advanced
+    folder: downloads
+    hideContent: true
+    fields:
+      - type: string
+        name: title
+        label: Título
+        description: O título do download
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtítulo
+        description: The text shown just below the project title
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: image
+        name: thumb_image
+        label: Thumbnail image
+        description: The image shown in the portfolio grid
+      - type: string
+        name: thumb_image_alt
+        label: Thumbnail image alt text
+        description: The alt text of the thumbnail image
+      - type: list
+        name: sections
+        label: Seções
+        description: Seções da página
+        items:
+          type: model
+          models:
+            - hero_section
+            - content_section
+            - cta_section
+            - grid_section
+            - cursos_section
+            - downloads_section
+            - posts_section
+            - testimonials_section
+            - form_section
       - type: model
         name: seo
         models:
@@ -495,9 +592,9 @@ models:
           type: model
           models:
             - action
-  portfolio_section:
+  cursos_section:
     type: object
-    label: Portfolio Section
+    label: Seção de cursos
     extends:
       - section
     fields:
@@ -524,7 +621,38 @@ models:
         description: The text displayed inside the button
       - type: string
         name: view_all_url
-        label: All projects button URL
+        label: Ver todos os cursos URL
+        default: '#'
+  downloads_section:
+    type: object
+    label: Seção de downloads
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The layout style of the projects section
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+        required: true
+      - type: number
+        name: projects_number
+        label: Number of projects to display
+        required: true
+      - type: string
+        name: view_all_label
+        label: All projects button label
+        description: The text displayed inside the button
+      - type: string
+        name: view_all_url
+        label: Ver todos os downloads URL
         default: '#'
   posts_section:
     type: object
@@ -559,7 +687,7 @@ models:
             - action
   testimonials_section:
     type: object
-    label: Testimonials Section
+    label: Seção de depoimentos
     extends:
       - section
     fields:
@@ -576,22 +704,22 @@ models:
             - testimonial
   testimonial:
     type: object
-    label: Testimonial
+    label: Depoimento
     labelField: author
     fields:
       - type: string
         name: author
-        label: Author
-        description: The author of the testimonial
+        label: Autor
+        description: O autor do depoimento
         required: true
       - type: string
         name: position
-        label: Author position
+        label: Posição do autor
         description: The position of the testimonial author
         required: true
       - type: image
         name: avatar
-        label: Author image
+        label: Imagem do autor
         description: The image of the testimonial author
       - type: string
         name: avatar_alt

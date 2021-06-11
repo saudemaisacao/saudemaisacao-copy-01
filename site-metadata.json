@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Saúde Mais Ação",
     "color_scheme": "light",
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
         "type": "header",
-        "title": "Agency",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "title": "Saúde Mais Ação",
+        "logo": "/images/Logo-Saude-Mais-Branco.png",
+        "logo_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -18,33 +18,42 @@
             },
             {
                 "type": "action",
-                "label": "Work",
-                "url": "/portfolio/",
+                "label": "Sobre nós",
+                "url": "/sobre-nos/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Journal",
+                "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about/",
+                "label": "e-Books",
+                "url": "/downloads/",
                 "style": "link"
             },
             {
+                "label": "Cursos",
+                "url": "/cursos/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
-                "label": "Contact",
-                "url": "/contact/",
+                "label": "Acesso ao Saúde Investimentos",
+                "url": "https://www.saudeinvestimentos.com.br/controle/auth/login",
                 "style": "button"
             }
         ]
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Saúde Mais Ação. Todos os direitos reservados.</a>",
         "has_social": true,
         "social_links": [
             {
@@ -65,14 +74,6 @@
             },
             {
                 "type": "action",
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
@@ -81,5 +82,6 @@
             }
         ]
     },
-    "domain": "https://saudemaisacao-38f01.netlify.app"
+    "domain": "https://saudemaisacao.netlify.app",
+    "favicon": "/images/oceanic-zucchini.png"
 }
