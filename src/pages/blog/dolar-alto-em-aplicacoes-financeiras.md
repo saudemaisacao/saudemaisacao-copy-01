@@ -4,17 +4,11 @@ thumb_image_alt: dolar
 image_alt: dolar em alta
 excerpt: >-
   Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de investimentos corretos ajuda o investidor a proteger o patrimônio contra oscilações econômicas — como a desvalorização do real perante as moedas estrangeiras — e pode contribuir para a pessoa aumentar o seu capital.
-
 seo:
-<<<<<<< Updated upstream
-  title: ""
-  description: ""
-=======
   title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
   description: 'Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de
   investimentos corretos ajuda o investidor a proteger o patrimônio contra
   oscilações econômicas'
->>>>>>> Stashed changes
   robots: []
   extra: []
   type: stackbit_page_meta
