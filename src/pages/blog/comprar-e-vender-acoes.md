@@ -13,8 +13,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/comprar-e-vender-acoes.jpeg
-thumb_image: /images/blog/comprar-e-vender-acoes.jpeg
+thumb_image: /images/blog/clever-birch.jpeg
+image: /images/blog/clever-birch.jpeg
 ---
 
 O mundo da renda variável pode ser um local de difícil exploração, não porque é impedido o acesso, mas por falta de conhecimento. Nesse caso, existe uma atividade que é bastante falada quando pensamos em investimentos, mas poucos sabem realmente como funciona: comprar e vender ações.
