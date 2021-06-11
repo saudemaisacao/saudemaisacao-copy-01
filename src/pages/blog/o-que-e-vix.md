@@ -3,15 +3,15 @@ title: "Entenda o que é VIX e como funciona o índice da volatilidade"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-Mesmo os investidores menos experientes sabem que, para aplicar seus recursos de modo inteligente, precisam ficar atentos a uma série de fatores e conhecimentos. Entre eles, podemos dizer que saber o que é VIX é um dos mais importantes. Isso ocorre porque esse indicador afeta diretamente a economia americana, o que acaba por impactar os ativos brasileiros, elevando ou reduzindo o seu valor de mercado.
+  Mesmo os investidores menos experientes sabem que, para aplicar seus recursos de modo inteligente, precisam ficar atentos a uma série de fatores e conhecimentos. Entre eles, podemos dizer que saber o que é VIX é um dos mais importantes. Isso ocorre porque esse indicador afeta diretamente a economia americana, o que acaba por impactar os ativos brasileiros, elevando ou reduzindo o seu valor de mercado.
 seo:
-  title: 'Entenda o que é VIX e como funciona o índice da volatilidade'
-  description: ''
+  title: "Entenda o que é VIX e como funciona o índice da volatilidade"
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2020-11-09'
+date: "2020-11-09"
 thumb_image: /images/blog/o-que-e-vix.jpeg
 image: /images/blog/o-que-e-vix.jpeg
 ---
