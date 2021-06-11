@@ -1,15 +1,10 @@
 ---
 title: Descubra o perfil de investidor que mais combina com você
-<<<<<<< Updated upstream
-thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
-excerpt: "Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros\_usados por algumas instituições que pode ajudá-lo a\_guiar as suas escolhas de investimentos"
-=======
 subtitle:
 thumb_image_alt: perfil de investidor
 image_alt: perfil de investidor
-excerpt: "Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros usados por algumas instituições que pode ajudá-lo a guiar as suas escolhas de investimentos"
->>>>>>> Stashed changes
+excerpt: >-
+  "Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros usados por algumas instituições que pode ajudá-lo a guiar as suas escolhas de investimentos"
 seo:
   title: "Descubra o perfil de investidor que mais combina com você"
   description: "Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros usados por algumas instituições que pode ajudá-lo a guiar as suas escolhas de investimentos"
@@ -17,22 +12,16 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-<<<<<<< Updated upstream
-date: '2018-02-11'
+date: "2018-02-11"
 thumb_image: /images/blog/post1x960-1.jpg
 image: /images/blog/important-whale.jpg
-=======
-date: "2018-11-02"
-thumb_image: /images/post1x960-1.jpg
-image: /images/important-whale.jpg
->>>>>>> Stashed changes
 ---
 
 Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros usados por algumas instituições que pode ajudá-lo a guiar as suas escolhas de investimentos, afinal de contas, são várias aplicações disponíveis e nem sempre é fácil decidir em qual delas será destinado o dinheiro. Nessa situação, é aconselhável (embora não obrigatório) que você opte por aplicações que são coerentes com a sua personalidade.
 
 Está com dúvidas em relação ao assunto? Então leia este post, porque nele apresentaremos todos os tipos de investidores e daremos dicas para você descobrir o seu perfil. Vamos lá?
 
-## **Quais são os tipos de investidor?**
+## Quais são os tipos de investidor?
 
 Basicamente, existem três tipos: conservador, moderado e agressivo. Explicaremos todos eles para que você reconheça aquele que mais combina com a sua personalidade. Continue lendo!
 
