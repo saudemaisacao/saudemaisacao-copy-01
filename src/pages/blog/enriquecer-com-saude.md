@@ -13,8 +13,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/enriquecer-com-saude.png
-thumb_image: /images/blog/enriquecer-com-saude.png
+image: /images/blog/enriquecer-com-saude.jpgg
+thumb_image: /images/blog/enriquecer-com-saude.jpg
 ---
 
 Para enriquecer com saúde, isto é, fazer escolhas conscientes e planejadas para assim ter os melhores resultados, não é uma meta impossível. Para muitos, o mercado pode parecer um bicho de sete cabeças, restrito apenas àqueles que investem na bolsa de valores ou especialistas. Porém, conhecendo os princípios básicos já é possível entrar nesse universo e juntar uma boa quantia.

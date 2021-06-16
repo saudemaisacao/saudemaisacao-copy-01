@@ -12,8 +12,8 @@ seo:
   type: stackbit_page_meta
 template: post
 date: "2019-09-26"
-thumb_image: /images/blog/ibovespa-em-tempo-real.jpeg
-image: /images/blog/ibovespa-em-tempo-real.jpeg
+thumb_image: /images/blog/ibovespa-em-tempo-real.jpg
+image: /images/blog/ibovespa-em-tempo-real.jpg
 ---
 
 Quem deseja compreender melhor como funciona o mercado de ações logo vê a importância de estar sempre atualizado com o que acontece nele. Isso é particularmente importante para os traders. Por isso, é fundamental buscar ferramentas para acompanhar o Ibovespa em tempo real.
