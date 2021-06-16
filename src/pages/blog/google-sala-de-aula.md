@@ -1,5 +1,5 @@
 ---
-title: "Google sala de aula: o app que vai revolucionar o modo de aprender!
+title: "Google sala de aula: o app que vai revolucionar o modo de aprender!"
 date: "2019-05-21"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
