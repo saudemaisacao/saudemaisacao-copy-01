@@ -12,8 +12,8 @@ seo:
   type: stackbit_page_meta
 template: post
 date: "2019-07-15"
-thumb_image: /images/blog/plano-de-previdencia-privada.png
-image: /images/blog/plano-de-previdencia-privada.png
+thumb_image: /images/blog/plano-de-previdencia-privada.jpg
+image: /images/blog/plano-de-previdencia-privada.jpg
 ---
 
 Ainda que você tenha direito à previdência social com as contribuições que faz ao INSS, sugerimos que saiba mais sobre a importância de ter um plano de previdência privada. Dado que o INSS está passando por muitas incertezas, não é aconselhável nem saudável depender dele para pagar as contas.

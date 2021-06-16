@@ -12,8 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/imposto-de-renda-2019.png
-thumb_image: /images/blog/imposto-de-renda-2019.png
+image: /images/blog/imposto-de-renda-2019.jpg
+thumb_image: /images/blog/imposto-de-renda-2019.jpg
 ---
 
 Uma das etapas mais importantes para Enriquecer com Saúde é o planejamento tributário. Por isso, deve-se dar especial atenção a este processo para não pagar tributos em excesso ou mesmo não incorrer em contingências fiscais.

@@ -12,8 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/bolsa-de-valores-para-medicos.png
-thumb_image: /images/blog/bolsa-de-valores-para-medicos.png
+image: /images/blog/bolsa-de-valores-para-medicos.jpg
+thumb_image: /images/blog/bolsa-de-valores-para-medicos.jpg
 ---
 
 Trabalhar com medicina muitas vezes significa dias longos no consultório, sem muito tempo para o profissional se dedicar a outras atividades importantes. Por isso, a baixa da economia pode fazê-lo imaginar quais poderiam ser outras formas viáveis de rentabilidade, como o mercado de ações, mas é de conhecimento geral que ele não é nada intuitivo. Assim, é possível que você se pergunte quais as melhores dicas sobre a bolsa de valores para médicos.

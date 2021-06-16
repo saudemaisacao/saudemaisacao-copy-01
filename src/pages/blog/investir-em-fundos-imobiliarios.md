@@ -12,8 +12,8 @@ seo:
   type: stackbit_page_meta
 template: post
 date: "2019-07-22"
-thumb_image: /images/blog/investir-em-fundos-imobiliarios.png
-image: /images/blog/investir-em-fundos-imobiliarios.png
+thumb_image: /images/blog/investir-em-fundos-imobiliarios.jpg
+image: /images/blog/investir-em-fundos-imobiliarios.jpg
 ---
 
 É comum que as pessoas tenham dúvidas sobre investir em fundos imobiliários, pois essa ainda é uma aplicação relativamente nova para muitos investidores que estão buscando diversificar a sua carteira.

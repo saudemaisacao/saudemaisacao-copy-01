@@ -12,8 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/aplicativos-de-gestao-financeira.png
-thumb_image: /images/blog/aplicativos-de-gestao-financeira.png
+image: /images/blog/aplicativos-de-gestao-financeira.jpg
+thumb_image: /images/blog/aplicativos-de-gestao-financeira.jpg
 ---
 
 Assim como uma cirurgia, controlar as finanças é um procedimento que exige conhecimento e o uso das ferramentas certas. Por isso, contar com a ajuda dos aplicativos de gestão financeira faz toda a diferença para os profissionais da área da saúde que precisam gerir o orçamento da melhor maneira, assim como cortar gastos e investir bem no mercado de ações.

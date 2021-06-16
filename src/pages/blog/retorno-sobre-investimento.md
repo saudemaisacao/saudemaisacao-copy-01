@@ -12,8 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/retorno-sobre-investimento.png
-thumb_image: /images/blog/retorno-sobre-investimento.png
+image: /images/blog/retorno-sobre-investimento.jpg
+thumb_image: /images/blog/retorno-sobre-investimento.jpg
 ---
 
 A eficiência da gestão financeira da clínica é muito importante para que a mesma alcance o sucesso e torne-se sustentável. Existem muitas métricas que ajudam você a saber se a gestão está sendo eficiente e, principalmente, perceber se suas ações estão trazendo os resultados esperados. O retorno sobre investimento ou ROI é uma delas.
