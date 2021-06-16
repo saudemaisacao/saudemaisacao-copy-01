@@ -1,11 +1,11 @@
 ---
-title: "A importância e os benefícios de uma vida financeira saudável"
+title: "Proteção financeira: entenda mais sobre o assunto"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Proteção financeira são diversas medidas que têm como objetivo reduzir os riscos de perda do patrimônio empresarial e/ou familiar. Essas ações, com validade legal, asseguram que o patrimônio não seja atingido ou que sofra o menor impacto possível, em um possível momento de dificuldade. A proteção financeira é feita por meio de seguros, sendo os mais importantes o Seguro de Vida Resgatável, a Diária de Incapacidade Temporária e o Seguro de Responsabilidade Civil.
 seo:
-  title: "A importância e os benefícios de uma vida financeira saudável"
+  title: "Proteção financeira: entenda mais sobre o assunto"
   description: ""
   robots: []
   extra: []
